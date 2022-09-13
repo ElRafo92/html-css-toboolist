@@ -63,12 +63,12 @@ h1{
     display: inline-block;
 }
 
-.check .positive{
+.positive.check{
     border-radius: 50%;
     border: 1px solid green;
     color: green;
 }
-.check .negative{
+.negative.check{
     border-radius: 50%;
     border: 1px solid red;
     color: red;
@@ -86,6 +86,10 @@ span{
     font-size: 20px;
 }
 
-.set-task{
+.box{
     margin-bottom: 50px;
+}
+
+.set-task{
+    margin-bottom: 15px;
 }
