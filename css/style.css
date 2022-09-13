@@ -63,6 +63,13 @@ h1{
     display: inline-block;
 }
 
+.check{
+    width: 20px;
+    height: 20px;
+    text-align: center;
+
+}
+
 .positive.check{
     border-radius: 50%;
     border: 1px solid green;
