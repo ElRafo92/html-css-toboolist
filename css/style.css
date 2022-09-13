@@ -6,12 +6,25 @@
     padding: 0;
 }
 
-
-
-
-
+/*Body*/
 body{
     font-family: 'Poppins', sans-serif;
     font-family: 'Roboto', sans-serif;
     background-color: #F6F8F9;
 }
+
+/*header*/
+#logo{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+h1{
+    display: inline-block;
+}
+
+#logo, h1{
+    vertical-align: middle;
+}
+
+/*main*/
