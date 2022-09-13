@@ -14,6 +14,10 @@ body{
 }
 
 /*header*/
+header{
+    margin-bottom: 60px;
+}
+
 #logo{
     margin-top: 10px;
     margin-left: 20px;
@@ -27,4 +31,27 @@ h1{
     vertical-align: middle;
 }
 
-/*main*/
+/*MAIN*/
+.container{
+    max-width: 800px;
+    margin: auto;
+}
+
+/*button section*/
+#task, #section{
+    border-radius: 5px;
+    padding: 5px;
+    border: none;
+    font-size: 16px;
+}
+
+#task{
+    background-color: #45ABEA;
+    color: white;
+}
+
+#section{
+    color: lightgrey;
+    border: 1px solid lightgrey;
+}
+
