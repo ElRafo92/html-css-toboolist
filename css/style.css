@@ -1,4 +1,16 @@
-body{
+
+/*generali*/
+*{
+    box-sizing: border-box;
+    margin: 0; 
+    padding: 0;
+}
+
+
+
+
+
+ody{
     font-family: 'Poppins', sans-serif;
     font-family: 'Roboto', sans-serif;
 }
