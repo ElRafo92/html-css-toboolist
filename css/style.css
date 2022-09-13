@@ -44,13 +44,24 @@ h1{
     font-size: 16px;
 }
 
-#task{
-    background-color: #45ABEA;
+.task{
     color: white;
 }
 
-#section{
+.section{
     color: lightgrey;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+#task{
+    background-color: #45ABEA;
+}
+
+#section{
     border: 1px solid lightgrey;
 }
 
