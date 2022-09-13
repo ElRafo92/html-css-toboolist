@@ -73,15 +73,6 @@ h1{
     border: 1px solid red;
     color: red;
 }
-
-.tag{
-    border-radius: 10px;
-    color: white;
-    background-color: #45ABEA;
-    padding: 5px;
-    font-size: 11px;
-}
-
 span{
     font-size: 20px;
 }
@@ -89,7 +80,32 @@ span{
 .box{
     margin-bottom: 50px;
 }
-
+.tag{
+    border-radius: 10px;
+    color: white;
+    padding: 5px;
+    font-size: 11px;
+}
 .set-task{
     margin-bottom: 15px;
+}
+
+/*all tag colors*/
+.editorial{
+    background-color: #45ABEA;
+}
+.goals{
+    background-color: #9C72E4;
+}
+.recruiting{
+    background-color: #45ABEA;
+}
+.sales{
+    background-color: #B0C926;
+}
+.mobile{
+    background-color: #F29E33;
+}
+.website{
+    background-color: #D863A1;
 }
