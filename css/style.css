@@ -2,7 +2,6 @@
 /*generali*/
 *{
     box-sizing: border-box;
-    margin: 0; 
     padding: 0;
 }
 
@@ -55,3 +54,38 @@ h1{
     border: 1px solid lightgrey;
 }
 
+#button{
+    margin-bottom: 45px;
+}
+
+/*task section*/
+.check, .tag{
+    display: inline-block;
+}
+
+.check .positive{
+    border-radius: 50%;
+    border: 1px solid green;
+    color: green;
+}
+.check .negative{
+    border-radius: 50%;
+    border: 1px solid red;
+    color: red;
+}
+
+.tag{
+    border-radius: 10px;
+    color: white;
+    background-color: #45ABEA;
+    padding: 5px;
+    font-size: 11px;
+}
+
+span{
+    font-size: 20px;
+}
+
+.set-task{
+    margin-bottom: 50px;
+}
