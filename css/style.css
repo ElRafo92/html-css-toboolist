@@ -9,12 +9,13 @@
 body{
     font-family: 'Poppins', sans-serif;
     font-family: 'Roboto', sans-serif;
-    background-color: #F6F8F9;
+    background-color: #f6f8f9;
 }
 
 /*header*/
 header{
     margin-bottom: 60px;
+    background-color: white;
 }
 
 #logo{
@@ -34,6 +35,7 @@ h1{
 .container{
     max-width: 700px;
     margin: auto;
+    background-color: white;
 }
 
 /*button section*/
@@ -67,6 +69,9 @@ a{
 
 #button{
     margin-bottom: 45px;
+    border-bottom: 2px solid #f8f9f9;
+    background-color: white;
+    padding: 10px 20px;
 }
 
 /*task section*/
@@ -97,6 +102,7 @@ span{
 
 .box{
     margin-bottom: 50px;
+    padding-left: 20px;
 }
 .tag{
     border-radius: 10px;
